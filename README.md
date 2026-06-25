@@ -16,6 +16,18 @@
 
 ---
 
+## 💼 Work Experience
+
+### 👨‍💻 Front-End Developer  
+**Purbanchal IT Solution Pvt. Ltd. | Itahari, Nepal**  
+**Feb 2024 – Mar 2025**
+
+- Developed responsive and user-friendly web applications using **React.js, HTML, CSS, and JavaScript**
+- Designed reusable UI components and improved application performance
+- Collaborated with developers to build scalable frontend solutions
+
+---
+
 ## 🚀 Projects
 
 ### 🏋️ Fitness Plan Recommendation System

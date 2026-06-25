@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Django**
 
-- 📫 How to reach me **https://mahatoshivshankar.com.np/**
+- 📫 How to reach me <a href="https://mahatoshivshankar.com.np/" target="_blank">mahatoshivshankar.com.np</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

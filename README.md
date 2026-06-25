@@ -1,16 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shiv Shankar Mahato</h1>
 
-<h3 align="center">A passionate Full Stack Web Developer from Nepal 🇳🇵</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-bugger&label=Profile%20views&color=0e75b6&style=flat" alt="code-bugger" />
-</p>
+<h3 align="center">A passionate Web Developer from Nepal </h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing **Master's in Informatics at the University of Passau, Germany 🇩🇪**
+- 🎓 Currently pursuing **Master's in Informatics at the University of Passau, Germany**
 - 🎓 Completed **Bachelor of Science in Computer Science and Information Technology (B.Sc.CSIT)**
 - 💻 Experienced in building **responsive and user-friendly web applications**
 - 🌱 Currently learning **Software Development, Advanced Web Technologies, and Machine Learning**
